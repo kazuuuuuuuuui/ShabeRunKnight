@@ -4,7 +4,7 @@ using System.Collections;
 public class CharacterController : MonoBehaviour
 {
     private Rigidbody2D rb;
-    public float 上昇値;
+    public float 上昇値; // masuo comment
 
     GetMicroPhoneVolume gmpv;
 
